@@ -7,6 +7,10 @@ header {
   padding: 1em 0;
   text-align: center;
 }
+h1 {
+  font-family: "Inter", serif;
+  font-size: 1.3rem;
+}
 .container {
   width: 80%;
   max-width: 1100px;
@@ -134,6 +138,11 @@ header {
   transition: opacity 250ms ease;
   position: absolute;
   left: 0;
+}
+
+.linkedIn {
+  height: 50px;
+  width: 50px; 
 }
 
 
