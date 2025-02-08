@@ -7,6 +7,13 @@ header {
   padding: 1em 0;
   text-align: center;
 }
+
+footer {
+  background: #136c72;
+  padding: 4em 0;
+  text-align: center;
+}
+
 h1 {
   font-family: "Inter", serif;
   font-size: 1.3rem;
@@ -144,5 +151,26 @@ h1 {
   height: 50px;
   width: 50px; 
 }
+
+.gitHub {
+  height: 50px;
+  width: 50px; 
+}
+
+.mail {
+  height: 50px;
+  width: 50px;  
+}
+
+.footer-layout {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.footer-layout--spacing {
+  margin-left: 10px;
+}
+
 
 
