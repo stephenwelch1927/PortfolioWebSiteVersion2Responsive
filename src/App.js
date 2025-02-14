@@ -56,7 +56,7 @@ function App() {
                   </a>
                 </li>
                 <li class="nav__item">
-                  <a href="" class="nav__link nav__link">
+                  <a href="https://github.com/stephenwelch1927" class="nav__link nav__link">
                     <BsGithub className="gitHub" />
                   </a>
                 </li>
@@ -86,7 +86,7 @@ function App() {
           </a>
           </div>
           <div className="footer-layout--spacing">
-          <a href="" class="nav__link nav__link">
+          <a href="https://github.com/stephenwelch1927" class="nav__link nav__link">
                     <BsGithub className="gitHub" />
                   </a>
                   </div>
