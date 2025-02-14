@@ -1,11 +1,15 @@
 import React from "react";
+import Bkk from '../Img/greyScaleBangkok.png';
 import home from './HomePage.css';
+import TypedIntro from "./TypedIntro";
+
 const HomePage = () => {
     return (
         <div>
           
             
-         <h1 className="contain1">Hello</h1> 
+        <TypedIntro />
+         <img src={Bkk} alt="Bangkok Roof Top View" />
         </div>
     );
 }

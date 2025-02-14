@@ -35,10 +35,6 @@ h1 {
   border-radius: 100px;
 }
 
-.btn:hover,
-.btn:focus {
-  opacity: .75; 
-}
 .logo {
   height: 30px;
 }
