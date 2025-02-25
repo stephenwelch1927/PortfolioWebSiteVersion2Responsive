@@ -7,3 +7,7 @@
 .card-style {
     color: "white";
 }
+
+.card-title {
+    text-align: center; 
+}
