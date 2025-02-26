@@ -11,3 +11,16 @@
 .card-title {
     text-align: center; 
 }
+
+.container-display {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.btn-style {
+    background-color: grey;
+    color: white;
+    font-size: 12px;
+    border: none;
+}
