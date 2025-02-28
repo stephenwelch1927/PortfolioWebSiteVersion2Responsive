@@ -19,8 +19,13 @@
 }
 
 .btn-style {
-    background-color: grey;
+    background-color: #555555;
     color: white;
     font-size: 12px;
     border: none;
+}
+
+.btn-style:hover {
+    background-color: grey;
+
 }
