@@ -6,6 +6,7 @@ import HomePage from "./components/HomePage";
 import { FaLinkedin } from "react-icons/fa";
 import { BsGithub } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
+import GlobalBeer from './components/GlobalBeer';
 import Projects from "./components/Projects";
 
 function App() {
@@ -77,6 +78,7 @@ function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/Projects" element={<Projects />} />
+            <Route path="/GlobalBeer" element={<GlobalBeer />} />
           </Routes>
         </main>
       </Router>

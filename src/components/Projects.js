@@ -23,9 +23,11 @@ const Projects = () => {
               This website is a fully functional beer purchasing site, it allows
               the customer to browse and purchase beers from across the globe.
             </Card.Text>
+            <a href="/GlobalBeer">
             <Button className="btn-style" size="sm">
               Global Beer Garden
             </Button>
+            </a>
           </Card.Body>
         </Card>
         <Card bg={"light"} style={{ width: "100%" }} className="img1">

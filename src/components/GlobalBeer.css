@@ -1,0 +1,75 @@
+.h1-style{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    font-size: 70px;
+    box-shadow: 1cap;
+    color: #FAF1CF;
+    text-shadow: 2px 2px black;
+}
+
+.p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: black;
+    box-shadow: 0cap;
+    font-size: 15px;
+    text-align: center;
+}
+.h2-style{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    color: #FAF1CF;;
+    box-shadow: 1cap;
+    text-shadow: 2px 2px black;
+}
+
+.img1 {
+    width: 250px;
+    height: 250px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.icon {
+    text-align: center;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.git{
+    margin-left: 305px;
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace; 
+}
+.flex-container {
+    display: flex;
+}
+
+.git-source-code {
+    text-align: center;
+    color: black;
+    font-family: "Lucida Console", "Courier New", monospace;  
+    text-decoration: none;
+}
+
+.anchor {
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace; 
+}
+
+/*.backArrow {
+    height: 100px;
+    width: 100px;
+    color: black;
+} */
+    
+
+/*.card {
+    margin-left: 300px;
+} */
+
+.frame {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
